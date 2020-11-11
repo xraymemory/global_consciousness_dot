@@ -33,7 +33,7 @@ The stated experimental purpose of the Project is "to examine subtle correlation
 
 As you might imagine, the Global Consciousness Project and its methodologies have inspired a wide range of criticism and fascination, [including several profiles in the New York Times](https://www.nytimes.com/2003/03/09/nyregion/mind-over-matter.html). By any rigorous scientific standard, their experiments yield no satisfactory correlations nor reproducible results. Whatever "structure" or "coherence" to be found is like seeing a face in the clouds or a rabbit in the moon. Their global network of FieldREGS ([including some still running at Princeton in addition to Fiji, Sweden, and China](http://www.global-mind.org/egghosts.html)) are producing nothing but tea leaves and dice rolls. 
 
-Psychorandomness is the measurement of these tea leaves and dice rolls. What some might consider a complete failure of the positivist scientific tradition, I see a vast flowing source of entropy. By measuring the variance in the GCP's index - that is, how much the index changes in between timestmps - we have a suprisingly robust way to generate random numbers. And not just any random numbers: these numbers are seeded with the apparent psychic activity of humankind! 
+Psychorandomness is the measurement of these tea leaves and dice rolls. What some might consider a complete failure of the positivist scientific tradition, I see a vast flowing source of entropy. By measuring the variance in the GCP's index - that is, how much the index changes in between timestamps - we have a suprisingly robust way to generate random numbers. And not just any random numbers: these numbers are seeded with the apparent psychic activity of humankind! 
 
 
 ![](images/gcp_graph.png)
